@@ -1,0 +1,26 @@
+# COMPETRA Backend Dependencies
+# Skill Intelligence Platform for Official Statistics
+
+# Web Framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+
+# Request Handling
+python-multipart==0.0.6
+
+# Configuration
+python-dotenv==1.0.0
+
+# Data Validation
+pydantic==2.4.2
+
+# LLM Integration
+openai>=1.0.0
+
+# Document Processing
+python-docx==0.8.11
+pdfminer.six==20221105
+
+# Development (optional)
+pytest==7.4.3
+pytest-asyncio==0.21.1
