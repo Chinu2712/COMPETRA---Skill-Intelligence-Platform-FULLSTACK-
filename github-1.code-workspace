@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../igot karma"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "igot karma"
+	}
+}
